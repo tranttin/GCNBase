@@ -23,5 +23,5 @@ print('===========end===================')
 MODELS = {
     'mf': model.PureMF,
     'lgn': model.LightGCN,
-    'tgn': model.TensorGCN  # Thêm mô hình TensorGCN mới
+#    'tgn': model.TensorGCN  # Thêm mô hình TensorGCN mới
 }

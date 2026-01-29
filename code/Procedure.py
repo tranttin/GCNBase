@@ -10,7 +10,7 @@ import world
 import numpy as np
 import torch
 import utils
-import dataloader_zin
+import dataloader
 from pprint import pprint
 from utils import timer
 from time import time

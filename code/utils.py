@@ -10,7 +10,7 @@ import torch
 from torch import nn, optim
 import numpy as np
 from torch import log
-from dataloader_zin import BasicDataset
+from dataloader import BasicDataset
 from time import time
 from model import LightGCN
 from model import PairWiseModel
